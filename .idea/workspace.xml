@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ece17d7-24d0-4e19-9637-6571555bd406" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/style.css" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1jKCU55dnL2aPJbu3SCaa6vEX9u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LEDP/upwork" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ece17d7-24d0-4e19-9637-6571555bd406" name="Default Changelist" comment="" />
+      <created>1603543408586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603543408586</updated>
+      <workItem from="1603543409704" duration="15967000" />
+      <workItem from="1603601928867" duration="32884000" />
+      <workItem from="1603705755782" duration="4618000" />
+      <workItem from="1603739135687" duration="986000" />
+      <workItem from="1603742897306" duration="2824000" />
+      <workItem from="1603746966160" duration="327000" />
+      <workItem from="1603779307074" duration="363000" />
+      <workItem from="1603820845321" duration="6796000" />
+      <workItem from="1603850061897" duration="5945000" />
+      <workItem from="1603857155763" duration="4417000" />
+      <workItem from="1603908550917" duration="218000" />
+      <workItem from="1603955818938" duration="4158000" />
+      <workItem from="1603978359959" duration="7916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603908570398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603908570398" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603746578055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603746578055" />
+  </component>
+</project>
